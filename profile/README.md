@@ -1,10 +1,10 @@
 <h3 align="center">
   <img
-    src="https://github.com/xShadowArcanist/botstacks/blob/main/logo-dark.svg#gh-dark-mode-only"
+    src="https://github.com/BotStacks/.github/blob/main/profile/logo-dark.svg#gh-dark-mode-only"
     height="110"
   />
   <img
-    src="https://github.com/xShadowArcanist/botstacks/blob/main/logo-light.svg#gh-light-mode-only"
+    src="https://github.com/BotStacks/.github/blob/main/profile/logo-light.svg#gh-light-mode-only"
     height="110"
   />
 </h3>
@@ -38,10 +38,10 @@
 | [Official Website](https://botstacks.ai) | Botstacks Official Website |
 | [Resource Center](https://docs.botstacks.ai/resource-center/overview) | Documentation on features and setup guides and more. |
 | [Chatbot Building Guide](https://docs.botstacks.ai/build-first-assistant/create-botstack) | Take the first step in AI assistant development with our user-friendly tools |
-| [Android SDK Documentation](https://python.langchain.com/docs/get_started/quickstart) | Get started with the Android SDK |
-| [iOS SDK Documentation](https://python.langchain.com/docs/get_started/quickstart) | Get started with the iOS SDK |
-| [JavaScript SDK Documentation](https://js.langchain.com/docs/get_started/quickstart) | Get started with the JavaScript SDK |
-| [React UI Kit Documentation](https://python.langchain.com/docs/get_started/quickstart) | Get started with the React UI Kit |
+| [Android SDK Documentation](https://docs.botstacks.ai/sdk-reference/android/introduction) | Get started with the Android SDK |
+| [iOS SDK Documentation](https://docs.botstacks.ai/sdk-reference/ios/introduction) | Get started with the iOS SDK |
+| [JavaScript SDK Documentation](https://docs.botstacks.ai/sdk-reference/javascript/introduction) | Get started with the JavaScript SDK |
+| [React UI Kit Documentation](https://docs.botstacks.ai/sdk-reference/react/introduction) | Get started with the React UI Kit |
 
 ## Socials
 
